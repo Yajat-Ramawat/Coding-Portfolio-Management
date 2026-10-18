@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # =========================================================
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "YnR#2039`~@"
+DB_PASSWORD = "YOUR_MYSQL_PASSWORD"
 DB_NAME = "studio"
 
 VALID_STATUS = ["Draft", "Planning", "In-Progress", "Complete"]
